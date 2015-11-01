@@ -17,6 +17,7 @@ OSX security related tools
 13. [IDA Pro](http://www.hex-rays.com/products/ida/index.shtml)
 14. [IDA plugin:runtime tracer](https://github.com/neuroo/runtime-tracer)
 15. [Hopper](http://www.hopperapp.com/) 
+16. [WebCruiser](http://example.com)
 
 iOS security related tools
 ====================
