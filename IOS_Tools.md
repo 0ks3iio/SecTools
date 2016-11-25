@@ -13,11 +13,8 @@ OSX security related tools
 9. [Mach-O diff](https://github.com/samdmarshall/machodiff) - mach-o diffing tool
 10. [Mac4n6](https://github.com/pstirparo/mac4n6) - A collection of OS X and iOS forensic artifacts
 11. [XGuardian scanner](https://github.com/openscanner/XGuardian) - Security Scanner for OSX
-12. [class dump z](https://networkpx.googlecode.com/files/class-dump-z)
-13. [IDA Pro](http://www.hex-rays.com/products/ida/index.shtml)
-14. [IDA plugin:runtime tracer](https://github.com/neuroo/runtime-tracer)
-15. [Hopper](http://www.hopperapp.com/) 
-16. [WebCruiser](http://example.com)
+12. [Crashwalk](https://github.com/bnagy/crashwalk)
+13. [PassiveFuzzFrameworks](https://github.com/SilverMoonSecurity/PassiveFuzzFrameworkOSX)
 
 iOS security related tools
 ====================
@@ -28,6 +25,7 @@ A collection of ios security related resources
 2. [iRET](https://github.com/S3Jensen/iRET) - iOS Reverse Engineering Toolkit
 3. [DVIA](http://damnvulnerableiosapp.com/) - Damn Vulnerable iOS App for learning
 4. [LibiMobileDevice](https://github.com/libimobiledevice/libimobiledevice) - A cross-platform protocol library to communicate with iOS devices
+5. [Needle](https://github.com/mwrlabs/needle) - iOS App Pentesting Tool
 
 
 # Other Awesome Lists
